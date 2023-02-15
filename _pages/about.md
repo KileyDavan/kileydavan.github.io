@@ -12,7 +12,7 @@ I am a PhD student in the Fulton lab at the University of Minnesota studing peop
 
 In my free time, I enjoy caring for my houseplants, hanging out with my dog and cat, crocheting, and listening to true crime podcasts. I also love bats and it is my personal mission to get others to love them too. Check out this video I made about bats:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I2dQROPiAIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
