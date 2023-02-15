@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Broadly, my research interests lie in the social and cultural aspects of conservation, particularly cognition (e.g., attitudes, beliefs, values, etc.) and theories (e.g., cognitive hierarchy) underlying human-wildlife relations. My interest stems from my curiosity to understand why people have certain attitudes and beliefs towards conservation and how we can foster more favorable attitudes, beliefs and behaviors. I hope that by sharing my passion for conservation and animals, I will instill it in others as well.
+
+In my free time, I enjoy caring for my houseplants, hanging out with my dog and cat, crocheting, and listening to true crime podcasts. I also love bats and it is my personal mission to get others to love them too. Check out this video I made about bats:
 
 A data-driven personal website
 ======
