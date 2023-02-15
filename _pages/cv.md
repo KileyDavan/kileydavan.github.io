@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Wildlife Ecology with a concentration in Conservation Biology, University of Maine, 2019
+* M.S. in Wildlife and Fisheries Science, University of Tennessee, 2021
+* Ph.D in Conservation Sciences, University of Minnesota, 2025 (expected)
 
 Work experience
 ======
